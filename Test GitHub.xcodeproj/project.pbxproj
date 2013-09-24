@@ -21,6 +21,8 @@
 		37BB5A5F17F1B306009A6E3C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37BB5A4117F1B306009A6E3C /* UIKit.framework */; };
 		37BB5A6717F1B306009A6E3C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 37BB5A6517F1B306009A6E3C /* InfoPlist.strings */; };
 		37BB5A6917F1B306009A6E3C /* Test_GitHubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37BB5A6817F1B306009A6E3C /* Test_GitHubTests.m */; };
+		37BB5A7317F1B406009A6E3C /* 02451_teaplantationsinkeralaindia_2560x1600.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37BB5A7217F1B406009A6E3C /* 02451_teaplantationsinkeralaindia_2560x1600.jpg */; };
+		37BB5A7517F1B45D009A6E3C /* 02550_dream_2560x1600.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37BB5A7417F1B45D009A6E3C /* 02550_dream_2560x1600.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		37BB5A6417F1B306009A6E3C /* Test GitHubTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Test GitHubTests-Info.plist"; sourceTree = "<group>"; };
 		37BB5A6617F1B306009A6E3C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		37BB5A6817F1B306009A6E3C /* Test_GitHubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test_GitHubTests.m; sourceTree = "<group>"; };
+		37BB5A7217F1B406009A6E3C /* 02451_teaplantationsinkeralaindia_2560x1600.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02451_teaplantationsinkeralaindia_2560x1600.jpg; sourceTree = "<group>"; };
+		37BB5A7417F1B45D009A6E3C /* 02550_dream_2560x1600.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02550_dream_2560x1600.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,8 @@
 				37BB5A4F17F1B306009A6E3C /* Main.storyboard */,
 				37BB5A5217F1B306009A6E3C /* TGHViewController.h */,
 				37BB5A5317F1B306009A6E3C /* TGHViewController.m */,
+				37BB5A7217F1B406009A6E3C /* 02451_teaplantationsinkeralaindia_2560x1600.jpg */,
+				37BB5A7417F1B45D009A6E3C /* 02550_dream_2560x1600.jpg */,
 				37BB5A5517F1B306009A6E3C /* Images.xcassets */,
 				37BB5A4417F1B306009A6E3C /* Supporting Files */,
 			);
@@ -232,6 +238,8 @@
 				37BB5A5617F1B306009A6E3C /* Images.xcassets in Resources */,
 				37BB5A4817F1B306009A6E3C /* InfoPlist.strings in Resources */,
 				37BB5A5117F1B306009A6E3C /* Main.storyboard in Resources */,
+				37BB5A7317F1B406009A6E3C /* 02451_teaplantationsinkeralaindia_2560x1600.jpg in Resources */,
+				37BB5A7517F1B45D009A6E3C /* 02550_dream_2560x1600.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
